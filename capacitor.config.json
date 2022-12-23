@@ -1,0 +1,6 @@
+{
+  "appId": "travel.buddy",
+  "appName": "ionic-angular",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
